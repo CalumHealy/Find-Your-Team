@@ -15,6 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
+          TODO("Move this key to a yaml file or something. ")
           "current_key": "AIzaSyDHQJhJgJvHIn3SH3rjjw_uKYi_GMWNfnE"
         }
       ],
